@@ -1,0 +1,11 @@
+[package]
+name = "calis"
+version = "0.1.0"
+authors = ["Alejandro Gallo <aamsgallo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+yaml-rust = "0.4"
+clap = "2.32"
+termion = "1.5"
+tui = "0.4.0"
